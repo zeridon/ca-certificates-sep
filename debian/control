@@ -1,0 +1,19 @@
+Source: ca-certificates-sep
+Section: misc
+Priority: optional
+Maintainer: Vladimir Vitkov <vvitkov@gmail.com>
+Build-Depends: debhelper-compat (= 12)
+Standards-Version: 4.4.1
+Homepage: https://zeridon.github.io/ca-certificates-sep/
+Vcs-Browser: https://github.com/zeridon/ca-certificates-sep
+Vcs-Git: https://github.com/zeridon/ca-certificates-sep.git
+
+Package: ca-certificates-sep
+Architecture: all
+Depends: ${misc:Depends}, ca-certificates (>= 20160104)
+Description: SEP Bulgaria root certificates
+ This package provides SEP Bulgaria (sub-)root certificates in PEM format.
+ Root certificates allow SSL-based applications to check for the
+ authenticity of certificates issued by the SEP Bulgaria authority.
+ .
+ SEP Bulgaria is a Bulgarian official eID issuer with full eIDAS compliance.
