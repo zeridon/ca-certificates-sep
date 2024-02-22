@@ -1,3 +1,10 @@
+ca-certificates-sep (20240222) unstable; urgency=medium
+
+  * Update build tooling
+  * Remove OCSP CA
+
+ -- Vladimir Vitkov <vvitkov@gmail.com>  Thu, 22 Feb 2024 14:13:45 +0200
+
 ca-certificates-sep (20210714) unstable; urgency=medium                                                                                                                                                      
   
   * Bump version for consistency
