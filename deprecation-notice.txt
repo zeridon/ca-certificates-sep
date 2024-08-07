@@ -1,0 +1,6 @@
+As of 2024.08.01 SEP Bulgaria no longer provides certification services.
+
+Any and all issued certificates should be expired as Issuance of new certificates has been discontinued as of 2023.10.02
+
+[1] https://www.esign.bg/bg/useful/%D0%BD%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8/gdpr/
+[2] https://www.esign.bg/bg/useful/%D0%BD%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8/sep/

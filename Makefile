@@ -10,6 +10,5 @@ clean:
 
 install:
 	mkdir -p $(DESTDIR)/$(CERTSDIR); \
-	for p in *.crt; do \
-	 install -D -m 644 $$p $(DESTDIR)/$(CERTSDIR)/$$p ; \
-	done
+	install -D -m 644  deprecation-notice.txt$(DESTDIR)/$(CERTSDIR)/README
+	install -D -m 644  deprecation-notice.txt$(DESTDIR)/$(CERTSDIR)/deprecation-notice.txt
